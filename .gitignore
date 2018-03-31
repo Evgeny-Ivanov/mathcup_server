@@ -1,0 +1,14 @@
+.idea/
+notes
+
+uploads/avatars/*
+uploads/images/*
+
+!uploads/avatars/.gitkeep
+!uploads/images/.gitkeep
+
+migrations/
+
+credentials.py
+
+__pycache__/
