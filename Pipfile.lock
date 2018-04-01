@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "6c6440a04982381b6af518aaf8ae53d5fa3c26cbf1b3be648f757304ef7d4547"
+            "sha256": "66a00ad956e0f941c85eced91a99eb38157bc01d4e8d76750cf4a2dbfc648795"
         },
         "host-environment-markers": {
             "implementation_name": "cpython",
@@ -82,6 +82,13 @@
             ],
             "version": "==4.1.0"
         },
+        "mimesis": {
+            "hashes": [
+                "sha256:787e843dd8212e07427144732dc662642e59ee1ba1c5be78af066492bb909966",
+                "sha256:e55a50654cfa1aa718d5983621b5d681409f67b38b542fffbb1282f05ceb2e05"
+            ],
+            "version": "==2.0.1"
+        },
         "pillow": {
             "hashes": [
                 "sha256:718ec7a122b28d64afc5fbc3a9b99bb0545ef511373cac06fe7624520e82cb20",
@@ -160,6 +167,13 @@
             ],
             "version": "==2.7.4"
         },
+        "python-memcached": {
+            "hashes": [
+                "sha256:4dac64916871bd3550263323fc2ce18e1e439080a2d5670c594cf3118d99b594",
+                "sha256:a2e28637be13ee0bf1a8b6843e7490f9456fd3f2a4cb60471733c7b5d5557e4f"
+            ],
+            "version": "==1.59"
+        },
         "pytz": {
             "hashes": [
                 "sha256:ed6509d9af298b7995d69a440e2822288f2eca1681b8cce37673dbb10091e5fe",
@@ -173,6 +187,13 @@
                 "sha256:410bcd1d6409026fbaa65d9ed33bf6dd8b1e94a499e32168acfc7b332e4095c0"
             ],
             "version": "==2018.3"
+        },
+        "six": {
+            "hashes": [
+                "sha256:832dc0e10feb1aa2c68dcc57dbb658f1c7e65b9b61af69048abc87a2db00a0eb",
+                "sha256:70e8a77beed4562e7f14fe23a786b54f6296e34344c23bc42f07b15018ff98e9"
+            ],
+            "version": "==1.11.0"
         },
         "vine": {
             "hashes": [
